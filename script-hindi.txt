@@ -1,0 +1,18 @@
+# Bhai Dooj — "मौत से बड़ा" (Part 1) — 12-line Hindi script
+# Yamraj and Yamuna — the story of Bhai Dooj. Puck voiceover (parent's browser task).
+# Format: Aryavrat Archives viral format — big Hindi subtitles throughout, hook as
+# full-screen text in the first 3 seconds, numbered series, follow/share CTA.
+# NOTE: shot timings are PLACEHOLDER estimates — re-time with timing.py (Devanagari-patched)
+# against lines-only.txt once the real Puck voiceover lands.
+L01: मौत के देवता को अपने घर कौन बुलाता है? एक बहन ने बुलाया था।
+L02: उसका नाम था यमुना — नदी की देवी। और उसका भाई था — यमराज, मौत के देवता।
+L03: यमराज इतने व्यस्त रहते थे कि सालों से अपनी बहन से मिलने नहीं आए थे।
+L04: यमुना रोज़ नदी किनारे खड़ी होकर इंतज़ार करती थी — भाई, कब आओगे?
+L05: एक दिन उसने सन्देश भेजा — भाई, इस दिन मेरे घर आना, मैं तुम्हारा तिलक करूँगी।
+L06: और यमराज आ गए। यमुना ने उनका तिलक किया, आरती उतारी, और अपने हाथों से खाना खिलाया।
+L07: खाना खाकर यमराज बोले — बहन, माँगो, क्या चाहिए तुम्हें? मैं वरदान दूँगा।
+L08: यमुना बोली — भाई, जो बहन इस दिन अपने भाई का तिलक करे, उसे अकाल मृत्यु का डर न रहे।
+L09: यमराज मुस्कुराए और बोले — ऐसा ही होगा। आज से जो भाई-बहन इस दिन मिलेंगे, उन्हें मौत का डर नहीं सताएगा।
+L10: उसी दिन से भाई दूज मनाया जाने लगा — भाई अपनी बहन के घर जाता है, बहन उसका तिलक करती है।
+L11: भाई और बहन का ये रिश्ता, मौत से भी बड़ा है।
+L12: अगर आपका भी कोई भाई है, तो ये video उसे भेजिए।
